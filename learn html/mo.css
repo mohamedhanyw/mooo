@@ -1,0 +1,127 @@
+header {
+    background-color: rgb(244, 245, 237);
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* 3shan mimskosh mn fo9 */
+    padding: 10px 200x;
+    width: 100%;
+    word-spacing: 30px;
+}
+
+.logo{
+    color: rgb(36, 36, 243);
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;   /* delet the line on the under word */
+    padding-left: 120px;
+
+
+
+}
+.navication a{
+    text-decoration: none;
+    color: #3a6cf4;
+    padding-left: 30px;
+}
+.c{
+    color: rgb(69, 69, 224);
+    text-transform: capitalize;
+    font-size: 19px;
+    font-weight: 300;
+    text-decoration: none; 
+}
+.m{
+    color: rgb(69, 69, 224);
+    text-transform: capitalize;
+    font-size: 19px;
+    font-weight: 300;
+    text-decoration: none; 
+}
+.s{
+    color: rgb(69, 69, 224);
+    text-transform: capitalize;
+    font-size: 19px;
+    font-weight: 300;
+    text-decoration: none; 
+    padding-right: 20px;
+
+}
+.navication a:hover{
+    color:darkblue;
+}
+.mophoto{
+padding-left: 400px;
+}
+.s1{
+background-color: black;
+    
+}
+.mohamed{
+    text-transform: uppercase;
+    color: white ;
+
+}
+.front{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.facebook{
+    color: rgb(0, 14, 138);
+    font-size: 1.7em;
+    padding-right: 15px;
+}
+.instagram{
+    color: rgb(179, 35, 236);
+    font-size: 1.7em;
+    padding-right: 15px;
+}
+.skill{
+    padding-left: 50px;
+    color: blue;
+    letter-spacing: 5px;
+}
+.table{
+    border-color: rgb(255, 255, 255);
+     color: black;
+}
+.hr{ 
+    height: 10px;
+    color: rgb(13, 13, 247);
+    background-color: blue;
+
+}
+.nn{
+    background-color:rgba(10, 10, 245, 0.137);
+}
+.hoppies{
+    padding-left: 50px;
+    color: blue;
+    letter-spacing: 5px;
+}
+.mm{
+    background-color:rgba(10, 10, 245, 0.137);
+}
+.h44{
+    padding-left: 20px;
+    letter-spacing: 3.7px;
+    text-transform: capitalize;
+    color:darkslategrey;
+}
+.h444{
+    padding-left: 20px;
+    letter-spacing: 3.7px;
+    text-transform: capitalize;
+    color:darkslategrey;
+}
+
+
+.contact2{
+    padding-left: 50px;
+    color: blue;
+    letter-spacing: 5px;
+}
+.hh{
+    background-color:rgba(10, 10, 245, 0.137);
+}
